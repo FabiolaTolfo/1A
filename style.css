@@ -19,7 +19,7 @@ section{
 }
 
 img{
-    height: 220px;
+    height: 200px;
 }
 
 .categoria-videos{
@@ -29,10 +29,5 @@ img{
     gap: 10px;
 }
 
-.chamada-videos{
-    background-color: black;
-    padding-left: 30px;
-    padding-right: 30px;
- }
 
 
